@@ -60,7 +60,7 @@ async def start_services():
     print('\n')
     print('---------------------------------------------------------------------------------------------------------')
     print('---------------------------------------------------------------------------------------------------------')
-    print('Join https://t.me/codexmania  to follow me for new bots')
+    print('Join https://t.me/trvpn')
     print('---------------------------------------------------------------------------------------------------------')
     print('\n')
     print('----------------------- Service Started -----------------------------------------------------------------')
@@ -70,7 +70,7 @@ async def start_services():
     if Var.ON_HEROKU:
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
-    print('Give a star to my repo https://github.com/Code-X-Mania/filestreambot  also follow me for new bots')
+    print('ANY PROBLEM CONTACT Https://t.me/trvpn')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
 
