@@ -6,6 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/code-x-mania/Filestreambot-pro)
 [![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmania)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shiva20991/Filestreambot-pro)
 
 <h1 align="center">FileStreamBot</h1>
 <p align="center"> 
